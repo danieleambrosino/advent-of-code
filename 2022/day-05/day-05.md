@@ -72,11 +72,10 @@ Now let's parse the instructions.
 
 
 ```python
-from dataclasses import dataclass
+from typing import NamedTuple
 
 
-@dataclass(frozen=True)
-class Instruction:
+class Instruction(NamedTuple):
     amount: int
     src_stack: int
     dst_stack: int
