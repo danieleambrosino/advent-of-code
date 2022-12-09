@@ -1,16 +1,40 @@
 from copy import copy
+from enum import Enum
+from typing import NamedTuple
 
 from numpy import array, ceil, int_, sign
+from numpy.typing import NDArray
 
-directions = {
-    "D": array([1, 0]),
-    "R": array([0, 1]),
-    "U": array([-1, 0]),
-    "L": array([0, -1]),
+
+class Direction(Enum):
+    DOWN = "D"
+    RIGHT = "R"
+    UP = "U"
+    LEFT = "L"
+
+
+char_to_direction: dict[str, Direction] = {
+    v.value: v for v in Direction.__members__.values()
+}
+
+direction_to_array: dict[Direction, NDArray[int_]] = {
+    Direction.DOWN: array([1, 0]),
+    Direction.RIGHT: array([0, 1]),
+    Direction.UP: array([-1, 0]),
+    Direction.LEFT: array([0, -1]),
 }
 
 
-def part_one(moves) -> int:
+class Move(NamedTuple):
+    direction: Direction
+    amount: int
+
+    @staticmethod
+    def build(tokens: list[str]) -> "Move":
+        return Move(char_to_direction[tokens[0]], int(tokens[1]))
+
+
+def part_one(moves: list[Move]) -> int:
     head = array([0, 0])
     tail = array([0, 0])
 
@@ -18,9 +42,8 @@ def part_one(moves) -> int:
 
     tail_positions.add(tuple(tail))
     for move in moves:
-        direction, amount = move[0], int(move[1])
-        for _ in range(amount):
-            head += directions[direction]
+        for _ in range(move.amount):
+            head += direction_to_array[move.direction]
             diff = head - tail
             if any(abs(diff) > 1):
                 correction = (ceil(abs(diff/2)) * sign(diff/2)).astype(int_)
@@ -30,16 +53,15 @@ def part_one(moves) -> int:
     return len(tail_positions)
 
 
-def part_two(moves) -> int:
+def part_two(moves: list[Move]) -> int:
     head = array([0, 0])
     knots = [copy(head) for _ in range(10)]
 
     tail_positions: set[tuple[int, int]] = set()
 
     for move in moves:
-        direction, amount = move[0], int(move[1])
-        for _ in range(amount):
-            knots[0] += directions[direction]
+        for _ in range(move.amount):
+            knots[0] += direction_to_array[move.direction]
 
             for i, knot in enumerate(knots):
                 if i == 0:
@@ -57,7 +79,8 @@ def part_two(moves) -> int:
 
 def main():
     with open("input.txt", "r") as file:
-        moves = [l.strip().split() for l in file.readlines()]
+        moves = list(map(Move.build, (l.strip().split()
+                     for l in file.readlines())))
     print(part_one(moves))
     print(part_two(moves))
 
