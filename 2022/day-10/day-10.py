@@ -1,22 +1,22 @@
 from typing import Protocol
 
 
-class ClockDrivenCircuit(Protocol):
+class ClockDrivenDevice(Protocol):
     def update(self, cycle: int):
         ...
 
 
 class Clock:
     cycle: int = 0
-    circuits: list[ClockDrivenCircuit] = []
+    devices: list[ClockDrivenDevice] = []
 
-    def connect(self, circuit: ClockDrivenCircuit):
-        self.circuits.append(circuit)
+    def connect(self, circuit: ClockDrivenDevice):
+        self.devices.append(circuit)
 
     def tick(self):
         self.cycle += 1
-        for circuit in self.circuits:
-            circuit.update(self.cycle)
+        for device in self.devices:
+            device.update(self.cycle)
 
 
 class CPU:
@@ -65,7 +65,7 @@ class CRT:
     def draw(self, cycle: int):
         pixel = "#" if abs(self.cpu.x - ((cycle - 1) % 40)) <= 1 else "."
         self.pixels.append(pixel)
-        if not cycle % 40:
+        if cycle % 40 == 0:
             self.pixels.append("\n")
 
 
