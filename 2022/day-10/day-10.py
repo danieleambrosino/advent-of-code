@@ -2,7 +2,7 @@ from typing import Protocol
 
 
 class ClockDrivenCircuit(Protocol):
-    def update(self):
+    def update(self, cycle: int):
         ...
 
 
@@ -16,7 +16,7 @@ class Clock:
     def tick(self):
         self.cycle += 1
         for circuit in self.circuits:
-            circuit.update()
+            circuit.update(self.cycle)
 
 
 class CPU:
@@ -39,45 +39,40 @@ class CPU:
 
 class SignalStrengthSampler:
     cpu: CPU
-    clock: Clock
     samples: list[int] = []
 
-    def __init__(self, cpu: CPU, clock: Clock) -> None:
+    def __init__(self, cpu: CPU) -> None:
         self.cpu = cpu
-        self.clock = clock
 
-    def update(self):
-        self.sample()
+    def update(self, cycle: int):
+        self.sample(cycle)
 
-    def sample(self):
-        if self.clock.cycle in (20, 60, 100, 140, 180, 220):
-            self.samples.append(self.clock.cycle * self.cpu.x)
+    def sample(self, cycle: int):
+        if cycle in (20, 60, 100, 140, 180, 220):
+            self.samples.append(cycle * self.cpu.x)
 
 
 class CRT:
     cpu: CPU
-    clock: Clock
     pixels: list[str] = []
 
-    def __init__(self, cpu: CPU, clock: Clock) -> None:
+    def __init__(self, cpu: CPU) -> None:
         self.cpu = cpu
-        self.clock = clock
 
-    def update(self):
-        self.draw()
+    def update(self, cycle: int):
+        self.draw(cycle)
 
-    def draw(self):
-        pixel = "#" if abs(
-            self.cpu.x - ((self.clock.cycle - 1) % 40)) <= 1 else "."
+    def draw(self, cycle: int):
+        pixel = "#" if abs(self.cpu.x - ((cycle - 1) % 40)) <= 1 else "."
         self.pixels.append(pixel)
-        if not self.clock.cycle % 40:
+        if not cycle % 40:
             self.pixels.append("\n")
 
 
 def part_one(instructions: list[list[str]]) -> int:
     clock = Clock()
     cpu = CPU(clock)
-    sampler = SignalStrengthSampler(cpu, clock)
+    sampler = SignalStrengthSampler(cpu)
     clock.connect(sampler)
     for instruction in instructions:
         cpu.exec(instruction)
@@ -87,7 +82,7 @@ def part_one(instructions: list[list[str]]) -> int:
 def part_two(instructions: list[list[str]]) -> str:
     clock = Clock()
     cpu = CPU(clock)
-    crt = CRT(cpu, clock)
+    crt = CRT(cpu)
     clock.connect(crt)
     for instruction in instructions:
         cpu.exec(instruction)
