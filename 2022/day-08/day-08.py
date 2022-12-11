@@ -1,40 +1,39 @@
-import numpy
+from numpy import (array, bool_, count_nonzero, flip, ndindex, ones, ubyte,
+                   uint, zeros)
 from numpy.typing import NDArray
 
 
-def part_one(trees_heights: NDArray[numpy.ubyte]) -> int:
-    def normalize_slice(slice: NDArray[numpy.ubyte]) -> NDArray[numpy.ubyte]:
-        if len(slice) == 0:
-            return numpy.array([-1])
-        return slice
-    visible_trees = numpy.zeros(trees_heights.shape, dtype=numpy.bool_)
+def part_one(trees: NDArray[ubyte]) -> int:
+    visible_trees = zeros(trees.shape, dtype=bool_)
 
-    for i, j in numpy.ndindex(trees_heights.shape):
-        current = trees_heights[i, j]
+    for i, j in ndindex(trees.shape):
+        current = trees[i, j]
 
         slices = [
-            trees_heights[i, 0:j],  # left
-            trees_heights[i, j+1:trees_heights.shape[1]],  # right
-            trees_heights[0:i, j],  # top
-            trees_heights[i+1:trees_heights.shape[0], j],  # bottom
+            trees[i, 0:j],  # left
+            trees[i, j+1:trees.shape[1]],  # right
+            trees[0:i, j],  # top
+            trees[i+1:trees.shape[0], j],  # bottom
         ]
-        visible = [current > max(normalize_slice(slice)) for slice in slices]
+        visible = [current > max(slice) if len(slice) > 0 else True
+                   for slice in slices]
 
         if any(visible):
             visible_trees[i, j] = True
 
-    return numpy.count_nonzero(visible_trees)
+    return count_nonzero(visible_trees)
 
 
-def part_two(trees_heights: NDArray[numpy.uint]) -> int:
-    scenic_scores = numpy.ones(trees_heights.shape, dtype=numpy.uint)
-    for i, j in numpy.ndindex(trees_heights.shape):
-        current = trees_heights[i, j]
+def part_two(trees: NDArray[uint]) -> int:
+    scenic_scores = ones(trees.shape, dtype=uint)
 
-        left_slice = numpy.flip(trees_heights[i, 0:j])
-        right_slice = trees_heights[i, j+1:trees_heights.shape[1]]
-        top_slice = numpy.flip(trees_heights[0:i, j])
-        bottom_slice = trees_heights[i+1:trees_heights.shape[0], j]
+    for i, j in ndindex(trees.shape):
+        current = trees[i, j]
+
+        left_slice = flip(trees[i, 0:j])
+        right_slice = trees[i, j+1:trees.shape[1]]
+        top_slice = flip(trees[0:i, j])
+        bottom_slice = trees[i+1:trees.shape[0], j]
 
         for slice in left_slice, right_slice, top_slice, bottom_slice:
             if len(slice) == 0:
@@ -50,10 +49,10 @@ def part_two(trees_heights: NDArray[numpy.uint]) -> int:
 
 def main() -> None:
     with open("input.txt", "r") as file:
-        trees_heights = numpy.array([list(map(int, list(l.strip())))
-                                    for l in file.readlines()], dtype=numpy.ubyte)
-    print(part_one(trees_heights))
-    print(part_two(trees_heights))
+        trees = array([list(map(int, list(l.strip())))
+                       for l in file.readlines()], dtype=ubyte)
+    print(part_one(trees))
+    print(part_two(trees))
 
 
 if __name__ == "__main__":
