@@ -11,7 +11,7 @@ class Operation(NamedTuple):
     operand: int
 
 
-class ThrowingItem(NamedTuple):
+class ThrownItem(NamedTuple):
     worry_level: int
     monkey_id: int
 
@@ -28,13 +28,13 @@ class Monkey:
         self.items = deque()
         self.target_monkeys_id = {}
 
-    def throw_all_items(self) -> list[ThrowingItem]:
-        throwing_items: list[ThrowingItem] = []
+    def throw_all_items(self) -> list[ThrownItem]:
+        thrown_items: list[ThrownItem] = []
         while len(self.items) > 0:
-            throwing_items.append(self._throw_next_item())
-        return throwing_items
+            thrown_items.append(self._throw_next_item())
+        return thrown_items
 
-    def _throw_next_item(self) -> ThrowingItem:
+    def _throw_next_item(self) -> ThrownItem:
         self.inspections_count += 1
         item = self.items.popleft()
         item = self.operation.operator(
@@ -44,7 +44,7 @@ class Monkey:
         item = self.worry_level_reducer(item)
         test = item % self.test_modulus == 0
         monkey_id = self.target_monkeys_id[test]
-        return ThrowingItem(item, monkey_id)
+        return ThrownItem(item, monkey_id)
 
 
 def build_monkeys(file: TextIOWrapper) -> list[Monkey]:
@@ -88,8 +88,8 @@ def build_monkeys(file: TextIOWrapper) -> list[Monkey]:
 
 def round(monkeys: list[Monkey]):
     for monkey in monkeys:
-        throwing_items = monkey.throw_all_items()
-        for item in throwing_items:
+        thrown_items = monkey.throw_all_items()
+        for item in thrown_items:
             monkeys[item.monkey_id].items.append(item.worry_level)
 
 
