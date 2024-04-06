@@ -6,11 +6,11 @@ Position = tuple[int, int]
 SATPosition = tuple[z3.ArithRef, z3.ArithRef]
 
 
-def manhattan_distance(a: Position, b: Position) -> int:
+def dist(a: Position, b: Position) -> int:
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
 
 
-def sat_manhattan_distance(a: Position, b: SATPosition) -> z3.ArithRef:
+def sat_dist(a: Position, b: SATPosition) -> z3.ArithRef:
     return z3.Abs(a[0] - b[0]) + z3.Abs(a[1] - b[1])
 
 
@@ -26,8 +26,7 @@ pattern = re.compile(r"-?\d+")
 with open(0) as file:
     for line in file:
         sx, sy, bx, by = map(int, pattern.findall(line))
-        solver.add(manhattan_distance((sx, sy), (bx, by)) <
-                   sat_manhattan_distance((sx, sy), (x, y)))
+        solver.add(dist((sx, sy), (bx, by)) < sat_dist((sx, sy), (x, y)))
         solver.add(z3.And(x != bx, y != by))
 
 solver.check()

@@ -1,0 +1,2336 @@
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down
+Unit(x=500, y=7)
+Down
+Unit(x=500, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down
+Unit(x=500, y=7)
+Down occupied
+Down-left
+Unit(x=499, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down
+Unit(x=500, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down
+Unit(x=500, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down occupied
+Down-left
+Unit(x=499, y=7)
+Down occupied
+Down-left
+Unit(x=498, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down occupied
+Down-left
+Unit(x=499, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down
+Unit(x=500, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down occupied
+Down-left
+Unit(x=499, y=6)
+Down occupied
+Down-left
+Unit(x=498, y=7)
+Down occupied
+Down-left
+Unit(x=497, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down occupied
+Down-left
+Unit(x=499, y=6)
+Down occupied
+Down-left
+Unit(x=498, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down occupied
+Down-left
+Unit(x=499, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down
+Unit(x=500, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down occupied
+Down-left
+Unit(x=499, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down
+Unit(x=500, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down occupied
+Down-left
+Unit(x=499, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down
+Unit(x=500, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down occupied
+Down-left
+Unit(x=499, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down
+Unit(x=500, y=2)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down
+Unit(x=497, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down
+Unit(x=495, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left
+Unit(x=494, y=8)
+Down occupied
+Down-left
+Unit(x=493, y=9)
+Down
+Unit(x=493, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left
+Unit(x=494, y=8)
+Down occupied
+Down-left
+Unit(x=493, y=9)
+Down occupied
+Down-left
+Unit(x=492, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left
+Unit(x=494, y=8)
+Down occupied
+Down-left
+Unit(x=493, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=494, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left
+Unit(x=494, y=8)
+Down occupied
+Down-left
+Unit(x=493, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left
+Unit(x=494, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=496, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down
+Unit(x=495, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left
+Unit(x=494, y=7)
+Down occupied
+Down-left
+Unit(x=493, y=8)
+Down occupied
+Down-left
+Unit(x=492, y=9)
+Down occupied
+Down-left
+Unit(x=491, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left
+Unit(x=494, y=7)
+Down occupied
+Down-left
+Unit(x=493, y=8)
+Down occupied
+Down-left
+Unit(x=492, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left
+Unit(x=494, y=7)
+Down occupied
+Down-left
+Unit(x=493, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left
+Unit(x=494, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=496, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left
+Unit(x=495, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left
+Unit(x=496, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left
+Unit(x=497, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left
+Unit(x=498, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left
+Unit(x=499, y=2)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=2)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down
+Unit(x=500, y=1)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left
+Unit(x=494, y=6)
+Down occupied
+Down-left
+Unit(x=493, y=7)
+Down occupied
+Down-left
+Unit(x=492, y=8)
+Down occupied
+Down-left
+Unit(x=491, y=9)
+Down occupied
+Down-left
+Unit(x=490, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left
+Unit(x=494, y=6)
+Down occupied
+Down-left
+Unit(x=493, y=7)
+Down occupied
+Down-left
+Unit(x=492, y=8)
+Down occupied
+Down-left
+Unit(x=491, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left
+Unit(x=494, y=6)
+Down occupied
+Down-left
+Unit(x=493, y=7)
+Down occupied
+Down-left
+Unit(x=492, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left
+Unit(x=494, y=6)
+Down occupied
+Down-left
+Unit(x=493, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left
+Unit(x=494, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left
+Unit(x=495, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left
+Unit(x=496, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left
+Unit(x=497, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left
+Unit(x=498, y=2)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left
+Unit(x=499, y=1)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down
+Unit(x=504, y=9)
+Down
+Unit(x=504, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down
+Unit(x=504, y=9)
+Down occupied
+Down-left
+Unit(x=503, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down
+Unit(x=504, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down
+Unit(x=504, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down occupied
+Down-left
+Unit(x=503, y=9)
+Down occupied
+Down-left
+Unit(x=502, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down occupied
+Down-left
+Unit(x=503, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down
+Unit(x=504, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down occupied
+Down-left
+Unit(x=503, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down
+Unit(x=504, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left
+Unit(x=503, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down
+Unit(x=504, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left
+Unit(x=503, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=509, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down
+Unit(x=504, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left
+Unit(x=503, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=509, y=9)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=510, y=10)
+On the floor
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=8)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=509, y=9)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=7)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=508, y=8)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=6)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=507, y=7)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=506, y=6)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=505, y=5)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=504, y=4)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=503, y=3)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=502, y=2)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right
+Unit(x=501, y=1)
+Down occupied
+Down-left occupied
+Down-right occupied
+Obstacle found
+New grain
+Unit(x=500, y=0)
+Down occupied
+Down-left occupied
+Down-right occupied
+Stuck!
+93
